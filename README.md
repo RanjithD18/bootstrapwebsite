@@ -422,10 +422,10 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 ### Home Page:
-![Home Page]()
+![Home Page](https://github.com/RanjithD18/bootstrapwebsite/blob/main/Screenshot%20(87).png)
 ### Modernization Page:
-![Modernization Page]()
+![Modernization Page](https://github.com/RanjithD18/bootstrapwebsite/blob/main/Screenshot%20(88).png)
 ### About Us:
-![About Us]()
+![About Us](https://github.com/RanjithD18/bootstrapwebsite/blob/main/Screenshot%20(89).png)
 ## Result:
 
